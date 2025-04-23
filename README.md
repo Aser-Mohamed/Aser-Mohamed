@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aser Mohamed</h1>
+<<<<<<< HEAD
 <h3 align="center">A Passionate Developer Specialized in AI & Python</h3>
 <h4 align="center">Turning Ideas into Code | Lifelong Learner | Tech Enthusiast</h4>
 
@@ -39,3 +40,6 @@ I'm a passionate developer focused on Artificial Intelligence, Python programmin
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=asermohamed&theme=react" />
 </p>
+=======
+<h3 align="center">A passionate Programmer</h3>
+>>>>>>> 03556e0ab80c6700f2bd56dac125a70b6f421d6c
